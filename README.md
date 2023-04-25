@@ -1,12 +1,12 @@
 # college_beta_v.0.2
-##Student Management System
+## Student Management System
 
 I'am yogesh kumar jha the core devloper of BOOK HEVEN. You will find my work in this folio.
 This is a Git repository (yogeshjha06/college_beta_v.0.2) for a student Management System. The system is designed to manage a library's collection of books, as well as patron accounts and borrowing/returning books.
 
 On the same time this platform is acountable to mannage all student as well as teachers's as admin to controle the command portal.
 
-###Installation
+### Installation
 
       Clone the repository to your local machine using git clone https://github.com/yogeshjha06/college_beta_v.0.2
       Navigate to the project directory using cd student-management.
@@ -17,14 +17,14 @@ On the same time this platform is acountable to mannage all student as well as t
       Features
       The Student Management System provides the following features:
       
-###Book Heven Features
+### Book Heven Features
       HOME: AI based trending section, about menu, contact section
       LIBRARY: book list as card
       ABOUT: details of book heven and insights of website
       FIND: search book
       CONTACT: contact us
 
-###Admin Features
+### Admin Features
       
       Dashboard: you will see number of outstanding book, dues per capital,  student count issue, notice panel, monthly report, data analysis fro new purchase of book.
       Student Zone: add student, remove student, list all student, create results, create library record, attaindence, community (for teacher-student communication) (only admin can add student)
@@ -37,7 +37,7 @@ On the same time this platform is acountable to mannage all student as well as t
       seartch admin: search admin and add as friend     
 
 
-###Student Patron Features
+### Student Patron Features
 
       My profile: view update, change passowrd of admin account.
       Student zone: result, library records, ataindence, community, dlocker, resume(auto gen)
